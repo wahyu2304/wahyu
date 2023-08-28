@@ -1,2 +1,2 @@
-# wahyu
+# Latihan
 ini akun latihan
